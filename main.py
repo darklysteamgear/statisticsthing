@@ -1,7 +1,7 @@
 # basic events functions for STA 3032 done in python
 #The code is pretty basic, as this was done to follow along and practice statistics calculations for studying
 #and completing homework
-# By Alex Vasta
+# By Darkly SteamGear
 
 import numpy
 import math
